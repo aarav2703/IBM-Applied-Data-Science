@@ -1,7 +1,7 @@
 Capstone Project for Applied Data Science-Coursera(IBM)
 # SpaceX Falcon 9 Landing Prediction Project
 
-![SpaceX Falcon 9](https://www.spacex.com/static/images/mission/crew-4.jpg)
+
 
 This project focuses on predicting the successful landing of the SpaceX Falcon 9 first stage using machine learning techniques. It involves data collection from the SpaceX API and web scraping from Wikipedia, exploratory data analysis (EDA), interactive data visualizations, and building predictive models.
 
